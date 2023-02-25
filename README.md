@@ -9,6 +9,14 @@
 
 ## Setup
 
+### Requirements
+* Python version 3.9
+* Torch with Cuda
+* Nvidia GPU
+* ffmpeg
+
+> For more information please visit OpenAI Wishper github: https://github.com/openai/whisper
+
 1. Run this command
 ```
 pip install -r requirements.txt
